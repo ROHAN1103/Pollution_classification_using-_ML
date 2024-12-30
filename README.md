@@ -27,3 +27,14 @@ Key Features:
  2. Moderate: Acceptable air quality but with some pollutants present.
  3. Poor: Noticeable pollution that may cause health issues for sensitive groups.
  4. Hazardous: Highly polluted air posing serious health risks to the population.
+
+**Preparing dataset**
+
+* Encoding Target variable "Air Quality" using LabelEncoder.
+* Splitting dataset into feature variables and target variable. 
+* Scalling the features using Standard Scaler.
+
+**Building ML Models**
+
+* Using train_test_split divide the dataset into Training and Testing sets with 33% for testing and 77% for training.
+* Three ML models are used for classification and they are DecisionTreeClassifier, LogisticRegression and SVC.
