@@ -6,6 +6,8 @@ In this project by using Machine Learning classification algorithms Air Pollutio
 
 **Dataset overview**
 
+This dataset focuses on air quality assessment across various regions. The dataset contains 5000 samples and captures critical environmental and demographic factors that influence pollution levels.
+
 Key Features:
 
 * Temperature (°C): Average temperature of the region.
@@ -21,7 +23,7 @@ Key Features:
  Target Variable:
 
 * Air Quality Levels:
-   1. Good: Clean air with low pollution levels.
-   2. Moderate: Acceptable air quality but with some pollutants present.
-   3. Poor: Noticeable pollution that may cause health issues for sensitive groups.
-   4. Hazardous: Highly polluted air posing serious health risks to the population.
+ 1. Good: Clean air with low pollution levels.
+ 2. Moderate: Acceptable air quality but with some pollutants present.
+ 3. Poor: Noticeable pollution that may cause health issues for sensitive groups.
+ 4. Hazardous: Highly polluted air posing serious health risks to the population.
